@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://newcontinuum.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms//xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv11/xiaomi.eu_multi_HM8_V11.0.1.0.QCNCNXM_v11-10.zip
-  ROM_NAME: MIUI
-  ZIP_NAME: MIUI
+  ROM_URL: https://dl.google.com/dl/android/aosp/coral-qq3a.200805.001-factory-875379d2.zip
+  ROM_NAME: Pixel
+  ZIP_NAME: Pixel
   TZ: Asia/Kolkata
   MIR: bit
 jobs:
